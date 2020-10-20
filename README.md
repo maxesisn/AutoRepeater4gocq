@@ -1,6 +1,9 @@
 # AutoRepeater
 从QQ群的聊天记录中根据关键词选出相似度最高的一句话，通过Word2Vec实现
 
+## Modified
+尝试直接从go-cqhttp的消息日志中提取记录，自动训练新模型
+
 ## Usage
 
 ### 预处理
